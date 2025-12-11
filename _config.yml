@@ -1,0 +1,11 @@
+title: "Snippets iOS"
+description: "Documentación técnica del equipo iOS"
+remote_theme: just-the-docs/just-the-docs
+
+# Opcional: idioma / preferencia
+lang: "es" / "en"
+
+# Opcional: mostrar link al repo en la esquina
+aux_links:
+  "Ver en GitHub":
+    - "https://github.com/AlexBritoFraternitas/Docs"
